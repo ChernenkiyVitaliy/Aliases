@@ -10,7 +10,7 @@ environment variables.**
 
 1. `git clone https://github.com/ChernenkiyCode/Aliases.git`
 2. `python -m venv YourDirectoryName`
-3. `source YourDirectoryName/bin/activate`
+3. `source YourDirectoryName/Scripts/activate`
 4. `cd Aliases`
 5. `pip install -r requirements.txt`
 6. `python manage.py migrate`
